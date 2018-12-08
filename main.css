@@ -1,0 +1,16 @@
+html { overflow: hidden; height: 100%;}
+video {
+	max-width: 100%;
+	width: 1080px;
+}
+body {
+  background-color:greenyellow;
+  margin: 0;
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+}
